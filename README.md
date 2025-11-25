@@ -32,15 +32,15 @@ Time span: January 2020 – December 2021
 
 Granularity: Country-level
 
-Features:
+Key Features:
 
-Confirmed
+Confirmed Cases
 
-Deaths
+Deaths Cases
 
-Recovered
+Recovered Cases
 
-Active
+Active Cases
 
 🏗️ System Architecture
             ┌────────────────────┐
@@ -89,9 +89,9 @@ COVID19-TimeSeries-Forecasting/
 │   │   └── df_recover.csv
 │
 ├── notebooks/
-│   ├── 01_EDA.ipynb
-│   ├── 02_Prophet_Forecasting.ipynb
-│   ├── 03_Animated_World_Map.ipynb
+│   ├── 01_Covid_19 project (3).py
+│   ├── 02_Covid_19 project (3).ipynb
+│  
 │
 ├── src/
 │   ├── data_preprocessing.py
@@ -127,7 +127,7 @@ Subplots for Recovered, Deaths, Active
 
 Prophet is used to forecast:
 
-Model	Target Variable
+Model	            Target Variable
 model_confirm	Confirmed Cases
 model_active	Active Cases
 model_deaths	Deaths
@@ -212,6 +212,3 @@ Pune , India
 📜 License
 
 This project is released under the MIT License.
-
-India / Maharastra
-
