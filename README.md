@@ -200,11 +200,14 @@ Add anomaly detection
 🧑‍💻 Author
 
 Darshan Pakhale
+
 Machine Learning & Data Science Enthusiast
+
 Pune , India
 
-🌐 GitHub: your link
-🔗 LinkedIn: your link
+🌐 GitHub: https://github.com/darshanpakhale250-gif
+
+🔗 LinkedIn: https://www.linkedin.com/in/darshan-pakhale-a97b12329/
 
 📜 License
 
@@ -212,6 +215,3 @@ This project is released under the MIT License.
 
 India / Maharastra
 
-Github Link : https://github.com/darshanpakhale250-gif
-
-Linkdln Link : https://www.linkedin.com/in/darshan-pakhale-a97b12329/
