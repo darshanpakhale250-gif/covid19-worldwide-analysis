@@ -15,9 +15,7 @@ Animated Plotly world maps
 
 Clean modular Python code
 
-High-quality GitHub-ready visuals
-
-The result is a complete data science case study suitable for resumes, portfolios, research, and presentations.
+The result is a complete data science case study.
 
 🎯 Project Goals
 ✔️ Understand global COVID-19 trends
@@ -28,7 +26,7 @@ The result is a complete data science case study suitable for resumes, portfolio
 ✔️ Provide clean and reusable code modules
 📊 Dataset Information
 
-Source: Kaggle COVID-19 Dataset (cleaned version)
+Dataset Link : https://drive.google.com/file/d/1XTw0I6x8x0TBWm14MCcQwHVCgnbW0J_A/view?usp=sharing
 
 Time span: January 2020 – December 2021
 
@@ -203,7 +201,7 @@ Add anomaly detection
 
 Darshan Pakhale
 Machine Learning & Data Science Enthusiast
-Mumbai, India
+Pune , India
 
 🌐 GitHub: your link
 🔗 LinkedIn: your link
@@ -212,6 +210,7 @@ Mumbai, India
 
 This project is released under the MIT License.
 
-Country / State
+India / Maharastra
 
-Dates
+Github Link : https://github.com/darshanpakhale250-gif
+Linkdln Link : https://www.linkedin.com/in/darshan-pakhale-a97b12329/
